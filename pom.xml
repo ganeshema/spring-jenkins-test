@@ -54,6 +54,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>spring-jenkins-test</finalName>
     </build>
 
 </project>
